@@ -3,6 +3,7 @@ wikipedia-movies.json
 ratings.csv
 movies_metadata.csv
 TMDb/
+oldstuff/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
